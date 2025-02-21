@@ -18,4 +18,11 @@ public class TestMKGit {
 		System.out.print("Prepare Food stage");
 	}
 	
+	
+	public void methodMkownstageGee()
+	{
+		System.out.println("Hi Abhi stage");
+		System.out.println(" How  in   you stage ");
+		System.out.print("Prepare tests stage");
+	}
 }
